@@ -258,9 +258,9 @@ Just plug the LCD Keypad Shield on top of Arduino Uno board.
 
 #
 
-### **4. Have Fun!** :joy:
+### **4. Have Fun!** :sunglasses:
 - After uploading done, you have to set the time manually first. 
-- Use **right/left button** on LCD Keypad Shield to choose the time option (_**HARI** (days), **JAM** (hours), **MENIT** (minutes) & **DETIK** (seconds)_ ).
+- Use **right/left button** on LCD Keypad Shield to choose the time option: _**HARI** (days), **JAM** (hours), **MENIT** (minutes) and **DETIK** (seconds)_.
 - Use **up/down button** to set its time, then your clock is ready to go! Have fun! 
 
 #
