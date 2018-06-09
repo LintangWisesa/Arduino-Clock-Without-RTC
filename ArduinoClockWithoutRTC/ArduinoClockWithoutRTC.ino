@@ -21,14 +21,14 @@ void setup() {
   lcd.print("tanpa modul RTC");
   delay(3500);
   lcd.clear();
-  
+
   lcd.setCursor(0,0);
   lcd.print("Lintang Wisesa");
   lcd.setCursor(1,1);
   lcd.print("simpLINnovation");
   delay(3500);
   lcd.clear();
-  
+
   lcd.setCursor(0,0);
   lcd.print(" Setting: Hari  "); // "Hari" means "Day"
 }
